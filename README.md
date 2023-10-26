@@ -18,4 +18,4 @@ This project is an empty project that I am using 2023-10-26 to test upstreaming 
 
 	Now if you run the ```git remote``` command, you'll see two remotes.
 
-4. Now it shows up a different branch in GHD...
+4. So GitHub Desktop sees the remote, but won't let me switch to it because "A branch with that name already exists". So what about VS Code?
