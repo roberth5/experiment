@@ -18,4 +18,4 @@ This project is an empty project that I am using 2023-10-26 to test upstreaming 
 
 	Now if you run the ```git remote``` command, you'll see two remotes.
 
-4. Now if I push my changes (using a tool like GitHub Desktop), what is going to happen?
+4. Now it shows up a different branch in GHD...
