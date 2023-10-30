@@ -23,3 +23,9 @@ This project is an empty project that I am using 2023-10-26 to test upstreaming 
 	There may be ways/work-arounds to do it though...
 
 Nevermind, let's try something else!
+
+So, I recloned the project, made sure it was all working. And then I ran the following command 
+
+```
+git remote set-url --add --push origin https://gitlab.centralfireplace.com/roberth/experiment.git
+```
