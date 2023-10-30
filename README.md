@@ -30,4 +30,5 @@ So, I recloned the project, made sure it was all working. And then I ran the fol
 git remote set-url --add --push origin https://gitlab.centralfireplace.com/roberth/experiment.git
 ```
 
-Failed, but gonna try again
+Failed, but gonna try again. I cleared the last change, added the github as a push url (even tho it already was). I pushed thru GHD and it worked.
+I destroyed the old gitlab repo and created a new one. Ran the updated script again. and now gonna test
