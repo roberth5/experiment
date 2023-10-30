@@ -21,3 +21,5 @@ This project is an empty project that I am using 2023-10-26 to test upstreaming 
 4. So GitHub Desktop sees the remote, but won't let me switch to it because "A branch with that name already exists". I tried VS Code and it has the option to "Push to..." a specific remote and it works, but it's just as easy to run ```git push backup```. The only problem is that it's a manual process and I'll need to *remember* to do it.
 
 	There may be ways/work-arounds to do it though...
+
+Nevermind, let's try something else!
